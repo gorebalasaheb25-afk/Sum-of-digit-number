@@ -1,0 +1,30 @@
+Q) WAP to print three maximum number without logical operator?
+
+ans:- a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+c = int(input("Enter third number: "))
+if a > b:
+    if a > c:
+        print("Maximum number =", a)
+    else:
+        print("Maximum number =", c)
+else:
+    if b > c:
+        print("Maximum number =", b)
+    else:
+        print("Maximum number =", c)
+
+✦Output:-Enter first number: 10
+ Enter Second number: 20
+Enter third number: 30
+Maximum number = 30
+
+
+
+
+
+
+
+
+
+
