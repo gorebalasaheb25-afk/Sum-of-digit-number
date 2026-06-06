@@ -1,1 +1,1 @@
-# Sum-of-digit-number
+# maximum three number without logical opreator
